@@ -6,7 +6,7 @@ I currently work at CYPE, one of the largest BIM programming companies in Europe
 
 🟪 BIM <br/>
 🟨 Javascript, React, Redux, Node, MongoDB, THREE.js <br/>
-🟦 C# (Revit API), C++ (Unreal) <br/>
+🟦 C# (Revit API), C++, Unreal <br/>
 ⬜ Spanish, English, German <br/>
 
 I am open to new projects. Feel free to say hi or drop a PR. 🚀
