@@ -5,7 +5,7 @@ I am [Antonio GV](https://www.linkedin.com/feed/?trk=guest_homepage-basic_sign-i
 I currently work at CYPE, one of the largest BIM programming companies in Europe. There I help develop BIM analysis and calculation tools for over 140,000 users.
 
 🟪 BIM <br/>
-🟨 Javascript, React, Redux, Node, MongoDB, THREE.js <br/>
+🟨 Javascript, Typescript, React, Redux, Node, MongoDB, THREE.js <br/>
 🟦 C# (Revit API), C++, Unreal <br/>
 ⬜ Spanish, English, German <br/>
 
