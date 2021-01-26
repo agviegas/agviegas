@@ -10,6 +10,13 @@ I am open to new projects. Feel free to say hi or drop a PR. 🚀
 ![](https://img.shields.io/static/v1?label&message=Spanish&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&message=German&style=for-the-badge&color=black)
 
+### My area of expertise is:
+
+![](https://img.shields.io/static/v1?label&message=OPEN-BIM&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=IFC&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=revit&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=3D&style=for-the-badge&color=black)
+
 ### I usually code in:
 
 ![](https://img.shields.io/static/v1?label&logo=javascript&message=JavaScript&style=for-the-badge&color=black&logoColor=yellow)
