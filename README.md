@@ -6,9 +6,9 @@ I am open to new projects. Feel free to say hi or drop a PR. 🚀
 
 ### I speak:
 
-![](https://img.shields.io/static/v1?label&message=English&style=for-the-badge&color=informational)
-![](https://img.shields.io/static/v1?label&message=Spanish&style=for-the-badge&color=informational)
-![](https://img.shields.io/static/v1?label&message=German&style=for-the-badge&color=informational)
+![](https://img.shields.io/static/v1?label&message=English&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=Spanish&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=German&style=for-the-badge&color=black)
 
 ### I usually code in:
 
@@ -35,5 +35,5 @@ I am open to new projects. Feel free to say hi or drop a PR. 🚀
 
 ### Contact me through:
 
-[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](https://www.linkedin.com/in/antonio-gonz%C3%A1lez-viegas-8b2326151/)
-[![](https://img.shields.io/static/v1?label&logo=twitter&message=twitter&style=for-the-badge&color=blue)](https://twitter.com/agviegasBIM)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/antonio-gonz%C3%A1lez-viegas-8b2326151/)
+[![](https://img.shields.io/static/v1?label&logo=twitter&message=twitter&style=for-the-badge&color=black)](https://twitter.com/agviegasBIM)
