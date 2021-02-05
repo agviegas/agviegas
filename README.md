@@ -38,7 +38,6 @@ I am open to new projects. Feel free to say hi or drop a PR. 🚀
 ![](https://img.shields.io/static/v1?label&logo=mongodb&message=MongoDB&style=for-the-badge&color=black&logoColor=green)
 ![](https://img.shields.io/static/v1?label&logo=mysql&message=MySQL&style=for-the-badge&color=black&logoColor=lightblue)
 ![](https://img.shields.io/static/v1?label&logo=firebase&message=firebase&style=for-the-badge&color=black&logoColor=yellow)
-![](https://img.shields.io/static/v1?label&logo=github&message=github&style=for-the-badge&color=black&logoColor=white)
 
 ### Contact me through:
 
