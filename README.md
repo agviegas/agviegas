@@ -23,7 +23,7 @@ I am open to new projects. Feel free to say hi or drop a PR. 🚀
 ![](https://img.shields.io/static/v1?label&logo=typescript&message=TypeScript&style=for-the-badge&color=black&logoColor=lightblue)
 
 ![](https://img.shields.io/static/v1?label&logo=c-sharp&message=C-Sharp&style=for-the-badge&color=black&logoColor=white)
-![](https://img.shields.io/static/v1?label&logo=c%2B%2B&message=c%2B%2B&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=c%2B%2B&message=c-plus-plus&style=for-the-badge&color=black&logoColor=lightblue)
 
 ### I love using:
 
