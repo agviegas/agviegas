@@ -1,6 +1,6 @@
 ## Hola 👋
 
-I am Antonio González Viegas, architect and programmer based in Spain. My specialty is solving problems of the BIM world through code. I love to learn new things, especially if they have to do with 3D, buildings or videogames.
+I am Antonio González Viegas, architect and programmer based in Spain. My specialty is solving problems of the BIM world through code. I love to learn new things, especially if they have to do with BIM, architecture, 3D or videogames.
 
 I am open to new projects. Feel free to say hi or drop a PR. 🚀
 
